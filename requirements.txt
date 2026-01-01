@@ -1,0 +1,8 @@
+requests
+ipykernel 
+dotenv
+openai
+azure-identity
+azure-ai-projects==2.0.0b2
+azure-mgmt-cognitiveservices
+azure-search-documents==11.7.0b2 
