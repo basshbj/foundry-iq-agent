@@ -1,9 +1,9 @@
 # Building an AI Agent with Foundry IQ
 
 #### Reference links
-- [](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/knowledge-retrieval?view=foundry&tabs=search%2Cpython)
-- [](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-how-to-create-knowledge-base?tabs=rbac&pivots=python)
-- [](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-how-to-create-pipeline)
+- [https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/knowledge-retrieval?view=foundry&tabs=search%2Cpython](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/knowledge-retrieval?view=foundry&tabs=search%2Cpython)
+- [https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-how-to-create-knowledge-base?tabs=rbac&pivots=python](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-how-to-create-knowledge-base?tabs=rbac&pivots=python)
+- [https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-how-to-create-pipeline)](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-how-to-create-pipeline)
 
 
 ## What is Foundry IQ
